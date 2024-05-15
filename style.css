@@ -23,8 +23,8 @@ body{
 
 .ico{
   display: block;
-  width: 320px;
-  height: 320px;
+  width: 1000px;
+  height: 1000px;
 }
 .open .ico{
   animation: open 4s;
